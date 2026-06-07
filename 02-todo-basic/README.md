@@ -11,7 +11,7 @@ A basic todo list built with vanilla HTML, CSS, and JavaScript.
 Vanilla HTML, CSS, Javascript- no frameworks or libraries.
 
 ## Live Demo
-
+https://anshiikasingh06-collab.github.io/todo-basic/02-todo-basic/
 
 ## What I learned
 - Array manipulation
